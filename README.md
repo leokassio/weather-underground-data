@@ -25,4 +25,4 @@ in addition to sea level press. (hPa).
 ## Seoul Avg. Temperature 
 ![alt text][sample]
 
-[sample]: https://github.com/leokassio/weather-underground-data/images/seoul-uweather.png "Seoul Avg. Temperature - Matplotlib Plot"
+[sample]: https://github.com/leokassio/weather-underground-data/raw/master/images/seoul-uweather.png "Seoul Avg. Temperature - Matplotlib Plot"
