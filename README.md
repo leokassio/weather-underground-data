@@ -21,3 +21,8 @@ The data comprises the cities:
 The datasets describe weather variables goruped daily, such as: min, max, avg 
 of temperature, humidity, dew point, visilibility (km) wind (km/h), precipitation,
 in addition to sea level press. (hPa).
+
+## Seoul Avg. Temperature 
+![alt text][sample]
+
+[sample]: https://github.com/leokassio/weather-underground-data/images/seoul-uweather.png "Seoul Avg. Temperature - Matplotlib Plot"
